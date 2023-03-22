@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: babb75867c4a30b45a5cf2a6d0b717e2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 5d86dc39788292b4dbf88268526f74d6, type: 3}
+  - _AddTex: {fileID: 2800000, guid: ce5dee1d50c3a8141b120eab424bcaa2, type: 3}
+  - _EdgeMask: {fileID: 2800000, guid: 223c5d6922667bd47be226017aae3261, type: 3}
+  - _EdgeTex: {fileID: 2800000, guid: 7b64d0bb4c0acd64fb5701483ee2b691, type: 3}
+  - _G_Tex: {fileID: 2800000, guid: 7a7fb69be64fdbc43966bb7364699b2e, type: 3}
+  - _DissolveTex: {fileID: 2800000, guid: ab978986b78b95248814a7257e0147cd, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
